@@ -11,3 +11,4 @@ This repository contains example projects using various regression techniques in
 * Multiple Project Notebook2 - this notebook contains multiple ML techniques:
 * - sales spend prediction based on tv, newspaper and radio advertising (same dataset as above)
 * - insurance charges based on customer features using ensemble regression (bagging regressor and gradient boosting regressor)
+* Ensemble Regressor - this is a notebook containing both regression and classification models. Scroll to view ensemble techniques used against the concrete strength dataset.

@@ -9,4 +9,6 @@ This repository contains example projects using various regression techniques in
 
 # Projects:
 * Blood pressure prediction
-* 
+* California house price prediction
+* Zillow house price prediction and salary prediction
+* Miles per gallon and exam scores predictions

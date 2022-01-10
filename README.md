@@ -1,5 +1,5 @@
 # Regression-Models
-This repository contains example projects using various regression techniques including simple linear, multiple linear, polynomial, lasso, ridge and elastic net. Both statsmodels and scikit learn are used.
+This repository contains example projects using various regression techniques including simple linear, multiple linear, polynomial, lasso, ridge, elastic net using statsmodels and scikit learn as well as ensemble regressors.
 
 # Projects:
 * Blood pressure prediction
@@ -10,4 +10,4 @@ This repository contains example projects using various regression techniques in
 * Multiple Project Notebook - this notebook contains multiple ML techniques. See models 1 & 2 in this notebook - Boston house price and diamond price predictions.
 * Multiple Project Notebook2 - this notebook contains multiple ML techniques:
 * - sales spend prediction based on tv, newspaper and radio advertising (same dataset as above)
-* - insurance charges based on customer features using ensemble regression (bagging and pasting)
+* - insurance charges based on customer features using ensemble regression (bagging regressor and gradient boosting regressor)

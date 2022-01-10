@@ -6,3 +6,7 @@ This repository contains example projects using various regression techniques in
 * lasso
 * ridge 
 * elastic net
+
+# Projects:
+* Blood pressure prediction
+* 

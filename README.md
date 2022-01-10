@@ -7,4 +7,4 @@ This repository contains example projects using various regression techniques in
 * Zillow house price prediction and salary predictions
 * Automobile miles per gallon and exam scores predictions models
 * Advertising spend to predict sales
-* Boston house price and diamond price predictions - see projects numbers 1 & 2 on this notebook
+* Boston house price and diamond price predictions - note this is a multi-project notebook so projects numbers 1 & 2 relate to regression

@@ -1,5 +1,5 @@
 # Regression-Models
-This repository contains example projects using various regression techniques including simple linear, multiple linear, polynomial, lasso, ridge, elastic net using statsmodels and scikit learn as well as ensemble regressors.
+This repository contains example projects using various regression techniques including simple linear, multiple linear, polynomial, lasso, ridge, elastic net using statsmodels and scikit learn models including decision tree and ensemble regressors.
 
 # Projects:
 * Blood pressure prediction

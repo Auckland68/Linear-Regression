@@ -1,5 +1,5 @@
 # Regression-Models
-This repository contains example projects using various regression techniques including simple linear, multiple linear, polynomial, lasso, ridge, elastic net using statsmodels and scikit learn models including decision tree and ensemble regressors.
+This repository contains example projects using various regression techniques including simple linear, multiple linear, polynomial, lasso, ridge, elastic net using statsmodels and scikit learn models including decision tree and ensemble regressors. There are also neural network models using Tensorflow (Keras) and Pytorch.
 
 # Projects:
 * Advertising spend to predict sales
@@ -11,5 +11,5 @@ This repository contains example projects using various regression techniques in
 * Multiple Project Notebook2 - this notebook contains multiple ML techniques:
 * - sales spend prediction based on tv, newspaper and radio advertising (same dataset as above)
 * - insurance charges based on customer features using ensemble regression (bagging regressor and gradient boosting regressor)
-* Taxi fare prediction using Pytorch NN model
+* Taxi fare prediction using PYTORCH NN model
 * Zillow house price prediction and salary predictions

@@ -5,6 +5,7 @@ This repository contains example projects using various regression techniques in
 * Advertising spend to predict sales
 * Automobile price prediction using PYTORCH NN Model
 * Automobile miles per gallon and exam scores predictions models
+* Bike Sharing Regression with PYTORCH
 * Blood pressure prediction
 * California house price prediction
 * Ensemble Regressor - this is a notebook containing both regression and classification models. Scroll to view ensemble regressors including , bagging and pasting with replacement, Random Forest and Adaboost used to predict the strength of concrete.

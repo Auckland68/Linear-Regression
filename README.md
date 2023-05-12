@@ -14,4 +14,5 @@ This repository contains example projects using various regression techniques in
 * - sales spend prediction based on tv, newspaper and radio advertising (same dataset as above)
 * - insurance charges based on customer features using ensemble regression (bagging regressor and gradient boosting regressor)
 * Taxi fare prediction using PYTORCH NN model
+* World Data Corruption Index prediction based on Annual Income
 * Zillow house price prediction and salary predictions
